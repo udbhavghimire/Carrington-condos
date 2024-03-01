@@ -18,7 +18,7 @@
 
     <title>Carrington Condo Calgary | Coming Soon - Register Today</title>
     <meta name="title" content="Carrington Condo Calgary | Coming Soon - Register Today">
-    <meta name="description" content="Carrington Condo Calgary, a development by Truman Homes, is an upcoming condos in Calgary, located on North West Calgary. The project is expected to be completed in 2028.">
+    <meta name="description" content="Carrington Condo Calgary, a development by Truman Homes, is an upcoming condos in Calgary, located on North West Calgary. The project is expected to be completed in 2024.">
     <meta name="keywords" content="Carrington Condos, Carrington Condo Calgary, Condos in Calgary, Carrington Condos Truman Homes, Truman Homes">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
