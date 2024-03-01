@@ -24,7 +24,6 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="revisit-after" content="1 days">
-    <meta property="og:image" content="https://lincolncondo.ca/1.jpeg">
     <meta property="og:site_name" content="Carrington Condos" />
 
 
